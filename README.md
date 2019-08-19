@@ -1,2 +1,2 @@
 # kefimochi.github.io
-Personal portfolio demonstrating all the projects I've worked on so far.
+Open sourced code of my porfolio that demonstrates all the projects I worked on.
