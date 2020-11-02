@@ -1,6 +1,6 @@
 
 (function($) {
-        alert("This website was built more than a year ago, please proceed with caution! I am not resposnible for any cringe 😬\n\n\n***I AM WELL AWARE THAT EVERYTHING IS BROKEN HERE***")
+        alert("**** This website was built more than a year ago, please proceed with caution!****")
 	var	$window = $(window),
 		$body = $('body'),
 		$nav = $('#nav');
