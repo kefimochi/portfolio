@@ -1,6 +1,6 @@
 
 (function($) {
-        alert("**** This website was built more than a year ago, please proceed with caution!****")
+        alert("**** This website was built in 2019 and is substantially outdated, please proceed with caution!****")
 	var	$window = $(window),
 		$body = $('body'),
 		$nav = $('#nav');
